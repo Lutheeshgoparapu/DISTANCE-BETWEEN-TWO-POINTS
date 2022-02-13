@@ -15,7 +15,6 @@ Assign the values
 
 Step 3:
 Substitute the values in the distance formula formula
-![FORMULA](formula.jpg)
 
 Step 4:
 Display the values
